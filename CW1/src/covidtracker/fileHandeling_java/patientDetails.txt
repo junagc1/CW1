@@ -1,0 +1,13 @@
+1,Hari,Bagmati,9841232322,18 Sep 2021,28 Sep 2021,Null
+2,Raju,Dhangadi,9802213123,19 Sep 2021,28 Sep 2021,Null
+5,Finzu,Dhankuta,91412190,Null,28 Sep 2021,19 Sep 2021
+7,Bastola,Bardiwas,9123123123,Null,28 Sep 2021,17 Sep 2021
+10,Juna,Chitwan,9840123314,Null,28 Sep 2021,17 Sep 2021
+11,Sachin,Lenovo,980602321,Null,28 Sep 2021,17 Sep 2021
+9,Amrit,Chisapani,9812313123,Null,28 Sep 2021,17 Sep 2021
+3,Smriti,Bhedetar,9813131212,19 Sep 2021,28 Sep 2021,Null
+4,Sanju,Kathmandu,98412377455,Null,28 Sep 2021,18 Sep 2021
+0,Kriti,Milanchowk,9861231058,Null,28 Sep 2021,23 Sep 2021
+12,Manisha,Bagmati,9811234563,Null,28 Sep 2021,17 Sep 2021
+8,Sandesh,Simaraha,98400123112,Null,28 Sep 2021,17 Sep 2021
+6,Gopal,Lahan,9841273839,Null,28 Sep 2021,19 Sep 2021
